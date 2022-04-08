@@ -1,0 +1,1595 @@
+[
+    {
+    "index": "114",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "FalsePositive",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "FalsePositive",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    },
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "9f2834",
+    "actionId": "5f97e5c4-1ed2-4644-8d79-21c5f9c1ac2a",
+    "comment": "Final transaction comment",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    },
+    {
+    "identifier": "EDD_Required",
+    "name": "EDD Required",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-31T11:05:54.261172Z"
+    }
+    },
+    {
+    "index": "113",
+    "message": {
+    "caseIdentifier": "9f2834",
+    "actionId": "7e5da869-5d2e-4bc5-8aa0-7b1834b03860",
+    "type": "START_CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T11:04:42.988631Z"
+    }
+    },
+    {
+    "index": "112",
+    "message": {
+    "caseIdentifier": "9f2834",
+    "fromLevel": "Level_1",
+    "actionId": "7002b3ff-00d1-4741-8ef1-50ed4ad44876",
+    "comment": "Escalating to supervisor to review",
+    "type": "SET_LEVEL",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T11:04:31.712080Z"
+    }
+    },
+    {
+    "index": "111",
+    "message": {
+    "caseIdentifier": "9f2834",
+    "narrative": "We have concluded investigations and Samuel is criminal",
+    "actionId": "361ae093-1241-41d2-8921-ce13ccdfa068",
+    "type": "NARRATIVE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T11:04:11.926603Z"
+    }
+    },
+    {
+    "index": "110",
+    "message": {
+    "caseIdentifier": "9f2834",
+    "actionId": "9d5b2b50-8fdf-4b83-aee3-f2b3cac615d8",
+    "type": "START_CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T11:03:44.415337Z"
+    }
+    },
+    {
+    "index": "109",
+    "message": {
+    "evidence": [],
+    "caseIdentifier": "9f2834",
+    "actionId": "0afc46e8-61af-4450-9c63-07b811020f16",
+    "comment": " dashboard incidents etc",
+    "type": "COMMENT",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T11:03:35.115351Z"
+    }
+    },
+    {
+    "index": "108",
+    "message": {
+    "alerts": [
+    {
+    "eventId": "metadata-28-z3e6lpsN",
+    "models": [],
+    "eventTime": "2022-03-27T11:55:00Z",
+    "rules": [
+    "universal.Suspicious_Activity"
+    ],
+    "alertId": "624589e91f8efc67db9c544f",
+    "eventType": "paymentNRT",
+    "event": {
+    "toId": "toId_1",
+    "msgType": "3",
+    "accountName": {
+    "namePrefix": "242",
+    "surname": "Apps",
+    "givenName": "Company 2",
+    "fullName": "Apps"
+    },
+    "customerEntityId": "Prim Proper",
+    "channel": "QTB",
+    "firstPaymentDate": "2022-03-17",
+    "numberOfTransactions": 2,
+    "paymentFrequency": "paymentFrequency_1",
+    "settlementMethod": "settlementMethod_1",
+    "msgStatus": "Warcrimes",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00.000Z",
+    "_metadata": {
+    "eventId": "eventId_1",
+    "execution": {
+    "expectResponse": false
+    },
+    "systemEventId": "metadata-28-z3e6lpsN",
+    "entities": {
+    "ACCOUNT": [
+    "2020337334123"
+    ],
+    "COUNTERPARTY": [
+    "Whoid"
+    ],
+    "CUSTOMER": [
+    "Prim Proper"
+    ],
+    "CARD": [
+    "serverTesto1234"
+    ]
+    },
+    "receivedTime": "2022-03-31T11:00:56Z",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "tenantId": "aml",
+    "entityConcatenation": {
+    "counterparty": "false",
+    "merchant": "false",
+    "mcc": "false",
+    "device": "false",
+    "account": "false",
+    "card": "false",
+    "customer": "false"
+    },
+    "eventType": "paymentNRT",
+    "searchable": {
+    "accountAddress_addressLine1": "CDN street",
+    "customerEntityId": "Prim Proper",
+    "counterpartyAddress_addressLine1": "addressLine1_1",
+    "channel": "QTB",
+    "settlementDate": "2022-01-17",
+    "eventType": "paymentNRT",
+    "requestExecutionDate": "2022-01-31",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "counterpartyId": "Whoid",
+    "counterpartyName_fullName": "Optimus Prime",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "counterpartyEntityId": "Whoid"
+    }
+    },
+    "counterpartyEntityId": "Whoid",
+    "accountAgentId": "ds32342",
+    "direction": "direction_1",
+    "eventId": "eventId_1",
+    "amount": {
+    "currency": "NGN",
+    "value": 6000001,
+    "baseCurrency": "NGN"
+    },
+    "instructingAgentId": "instructingAgentId_1",
+    "schemaVersion": 1,
+    "accountAddress": {
+    "country": "NG",
+    "townName": "Lagos",
+    "addressLine1": "CDN street"
+    },
+    "counterpartyAddress": {
+    "country": "KP",
+    "addressLine1": "addressLine1_1"
+    },
+    "serviceLevelCode": "serviceLevelCode_1",
+    "settlementClearingSystemCode": "settlementClearingSystemCode_1",
+    "eventType": "paymentNRT",
+    "settlementDate": "2022-01-17",
+    "creationDate": "2022-03-31T11:00:51.238Z",
+    "finalPaymentDate": "2022-03-03",
+    "requestExecutionDate": "2022-01-31",
+    "destinationCountry": "IR",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "accountId": "2020337334123",
+    "counterpartyId": "Whoid",
+    "accountAgentName": "Fire agent",
+    "tenantId": "aml",
+    "counterpartyName": {
+    "surname": "Prime",
+    "givenName": "Optimus",
+    "fullName": "Optimus Prime"
+    },
+    "paymentMethod": "paymentMethod_1",
+    "instructedAgentId": "instructedAgentId_1"
+    },
+    "alertedEntity": {
+    "id": "serverTesto1234",
+    "type": "CARD",
+    "tenantIdentifier": "aml"
+    },
+    "tags": [
+    {
+    "namespace": "_tag",
+    "value": "SAR"
+    }
+    ]
+    },
+    {
+    "eventId": "metadata-460-bdDM2ECg",
+    "models": [],
+    "eventTime": "2022-03-27T11:55:00Z",
+    "rules": [
+    "universal.Suspicious_Activity"
+    ],
+    "alertId": "6243251bde655e2b3bc1e3e7",
+    "eventType": "paymentNRT",
+    "event": {
+    "toId": "toId_1",
+    "msgType": "3",
+    "accountName": {
+    "namePrefix": "242",
+    "surname": "Apps",
+    "givenName": "Company 2",
+    "fullName": "Apps"
+    },
+    "customerEntityId": "Prim Proper",
+    "channel": "QTB",
+    "firstPaymentDate": "2022-03-17",
+    "numberOfTransactions": 2,
+    "paymentFrequency": "paymentFrequency_1",
+    "settlementMethod": "settlementMethod_1",
+    "msgStatus": "Warcrimes",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00.000Z",
+    "_metadata": {
+    "eventId": "eventId_1",
+    "execution": {
+    "expectResponse": false
+    },
+    "systemEventId": "metadata-460-bdDM2ECg",
+    "entities": {
+    "ACCOUNT": [
+    "2020337334123"
+    ],
+    "COUNTERPARTY": [
+    "Whoid"
+    ],
+    "CUSTOMER": [
+    "Prim Proper"
+    ],
+    "CARD": [
+    "serverTesto1234"
+    ]
+    },
+    "receivedTime": "2022-03-29T15:26:19Z",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "tenantId": "aml",
+    "entityConcatenation": {
+    "counterparty": "false",
+    "merchant": "false",
+    "mcc": "false",
+    "device": "false",
+    "account": "false",
+    "card": "false",
+    "customer": "false"
+    },
+    "eventType": "paymentNRT",
+    "searchable": {
+    "accountAddress_addressLine1": "CDN street",
+    "customerEntityId": "Prim Proper",
+    "counterpartyAddress_addressLine1": "addressLine1_1",
+    "channel": "QTB",
+    "settlementDate": "2022-01-17",
+    "eventType": "paymentNRT",
+    "requestExecutionDate": "2022-01-31",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "counterpartyId": "Whoid",
+    "counterpartyName_fullName": "Optimus Prime",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "counterpartyEntityId": "Whoid"
+    }
+    },
+    "counterpartyEntityId": "Whoid",
+    "accountAgentId": "ds32342",
+    "direction": "direction_1",
+    "eventId": "eventId_1",
+    "amount": {
+    "currency": "NGN",
+    "value": 6000001,
+    "baseCurrency": "NGN"
+    },
+    "instructingAgentId": "instructingAgentId_1",
+    "schemaVersion": 1,
+    "accountAddress": {
+    "country": "NG",
+    "townName": "Lagos",
+    "addressLine1": "CDN street"
+    },
+    "counterpartyAddress": {
+    "country": "KP",
+    "addressLine1": "addressLine1_1"
+    },
+    "serviceLevelCode": "serviceLevelCode_1",
+    "settlementClearingSystemCode": "settlementClearingSystemCode_1",
+    "eventType": "paymentNRT",
+    "settlementDate": "2022-01-17",
+    "creationDate": "2022-03-29T15:26:15.806Z",
+    "finalPaymentDate": "2022-03-03",
+    "requestExecutionDate": "2022-01-31",
+    "destinationCountry": "IR",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "accountId": "2020337334123",
+    "counterpartyId": "Whoid",
+    "accountAgentName": "Fire agent",
+    "tenantId": "aml",
+    "counterpartyName": {
+    "surname": "Prime",
+    "givenName": "Optimus",
+    "fullName": "Optimus Prime"
+    },
+    "paymentMethod": "paymentMethod_1",
+    "instructedAgentId": "instructedAgentId_1"
+    },
+    "alertedEntity": {
+    "id": "serverTesto1234",
+    "type": "CARD",
+    "tenantIdentifier": "aml"
+    },
+    "tags": [
+    {
+    "namespace": "_tag",
+    "value": "SAR"
+    }
+    ]
+    }
+    ],
+    "caseIdentifier": "9f2834",
+    "actionId": "1ad56386-83d0-4d60-8d99-f9a30b08cd11",
+    "type": "ADD_TO_CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "events": [],
+    "timestamp": "2022-03-31T11:02:13.308265Z",
+    "tenantIdentifier": "aml"
+    }
+    },
+    {
+    "index": "107",
+    "message": {
+    "alerts": [
+    {
+    "eventId": "metadata-28-z3e6lpsN",
+    "models": [],
+    "eventTime": "2022-03-27T11:55:00Z",
+    "rules": [
+    "AML.trxnFrom_ToProhbitedCountry",
+    "universal.trxnFrom_ToProhbitedCountry"
+    ],
+    "alertId": "624589ea1f8efc67db9c5451",
+    "eventType": "paymentNRT",
+    "event": {
+    "toId": "toId_1",
+    "msgType": "3",
+    "accountName": {
+    "namePrefix": "242",
+    "surname": "Apps",
+    "givenName": "Company 2",
+    "fullName": "Apps"
+    },
+    "customerEntityId": "Prim Proper",
+    "channel": "QTB",
+    "firstPaymentDate": "2022-03-17",
+    "numberOfTransactions": 2,
+    "paymentFrequency": "paymentFrequency_1",
+    "settlementMethod": "settlementMethod_1",
+    "msgStatus": "Warcrimes",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00.000Z",
+    "_metadata": {
+    "eventId": "eventId_1",
+    "execution": {
+    "expectResponse": false
+    },
+    "systemEventId": "metadata-28-z3e6lpsN",
+    "entities": {
+    "ACCOUNT": [
+    "2020337334123"
+    ],
+    "COUNTERPARTY": [
+    "Whoid"
+    ],
+    "CUSTOMER": [
+    "Prim Proper"
+    ],
+    "CARD": [
+    "serverTesto1234"
+    ]
+    },
+    "receivedTime": "2022-03-31T11:00:56Z",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "tenantId": "aml",
+    "entityConcatenation": {
+    "counterparty": "false",
+    "merchant": "false",
+    "mcc": "false",
+    "device": "false",
+    "account": "false",
+    "card": "false",
+    "customer": "false"
+    },
+    "eventType": "paymentNRT",
+    "searchable": {
+    "accountAddress_addressLine1": "CDN street",
+    "customerEntityId": "Prim Proper",
+    "counterpartyAddress_addressLine1": "addressLine1_1",
+    "channel": "QTB",
+    "settlementDate": "2022-01-17",
+    "eventType": "paymentNRT",
+    "requestExecutionDate": "2022-01-31",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "counterpartyId": "Whoid",
+    "counterpartyName_fullName": "Optimus Prime",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "counterpartyEntityId": "Whoid"
+    }
+    },
+    "counterpartyEntityId": "Whoid",
+    "accountAgentId": "ds32342",
+    "direction": "direction_1",
+    "eventId": "eventId_1",
+    "amount": {
+    "currency": "NGN",
+    "value": 6000001,
+    "baseCurrency": "NGN"
+    },
+    "instructingAgentId": "instructingAgentId_1",
+    "schemaVersion": 1,
+    "accountAddress": {
+    "country": "NG",
+    "townName": "Lagos",
+    "addressLine1": "CDN street"
+    },
+    "counterpartyAddress": {
+    "country": "KP",
+    "addressLine1": "addressLine1_1"
+    },
+    "serviceLevelCode": "serviceLevelCode_1",
+    "settlementClearingSystemCode": "settlementClearingSystemCode_1",
+    "eventType": "paymentNRT",
+    "settlementDate": "2022-01-17",
+    "creationDate": "2022-03-31T11:00:51.238Z",
+    "finalPaymentDate": "2022-03-03",
+    "requestExecutionDate": "2022-01-31",
+    "destinationCountry": "IR",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "accountId": "2020337334123",
+    "counterpartyId": "Whoid",
+    "accountAgentName": "Fire agent",
+    "tenantId": "aml",
+    "counterpartyName": {
+    "surname": "Prime",
+    "givenName": "Optimus",
+    "fullName": "Optimus Prime"
+    },
+    "paymentMethod": "paymentMethod_1",
+    "instructedAgentId": "instructedAgentId_1"
+    },
+    "alertedEntity": {
+    "id": "Prim Proper",
+    "type": "CUSTOMER",
+    "tenantIdentifier": "aml"
+    },
+    "tags": []
+    }
+    ],
+    "caseIdentifier": "9f2834",
+    "actionId": "a947cb22-cdb8-4281-8398-903a9decaed3",
+    "description": "investigate twice",
+    "caseCreationReasons": [
+    {
+    "identifier": "C_PEP",
+    "name": "Customer is a PEP",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "primaryEntity": {
+    "id": "Prim Proper",
+    "type": "CUSTOMER",
+    "tenantIdentifier": "aml"
+    },
+    "type": "CREATE_CASE",
+    "uicgIdentifier": "amlCm",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "events": [],
+    "timestamp": "2022-03-31T11:01:28.884004Z",
+    "tenantIdentifier": "aml"
+    }
+    },
+    {
+    "index": "106",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "ba2d01",
+    "actionId": "9a5ced0f-c5b6-4545-8978-2915bd41574b",
+    "comment": "This is my last comment on the case 2",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-31T10:57:56.035326Z"
+    }
+    },
+    {
+    "index": "105",
+    "message": {
+    "caseIdentifier": "ba2d01",
+    "actionId": "42c0e278-dd84-4f15-8359-a683729ae2cd",
+    "type": "START_CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T10:56:58.077723Z"
+    }
+    },
+    {
+    "index": "104",
+    "message": {
+    "caseIdentifier": "ba2d01",
+    "fromLevel": "Level_1",
+    "actionId": "c58937e5-06ca-48fb-8cc1-130dc44384c4",
+    "comment": "Please confirm",
+    "type": "SET_LEVEL",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T10:50:28.532757Z"
+    }
+    },
+    {
+    "index": "103",
+    "message": {
+    "caseIdentifier": "ba2d01",
+    "narrative": " This person was a war criminal",
+    "actionId": "404059ca-49cc-4073-b5ae-44a2114fc663",
+    "type": "NARRATIVE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T10:48:57.117641Z"
+    }
+    },
+    {
+    "index": "102",
+    "message": {
+    "evidence": [],
+    "caseIdentifier": "ba2d01",
+    "actionId": "cf0ff097-99bf-4295-854c-31cfa30aed15",
+    "comment": "etc etc",
+    "type": "COMMENT",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T10:48:35.188634Z"
+    }
+    },
+    {
+    "index": "101",
+    "message": {
+    "evidence": [],
+    "caseIdentifier": "ba2d01",
+    "actionId": "255a1bf4-5937-4355-858c-c6fb179e2fe0",
+    "comment": "YOURE IN CONTROL OF aml\n",
+    "type": "COMMENT",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T10:48:28.567453Z"
+    }
+    },
+    {
+    "index": "100",
+    "message": {
+    "caseIdentifier": "ba2d01",
+    "actionId": "c821ab88-9846-4c30-99cf-eb4880044a47",
+    "type": "START_CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "timestamp": "2022-03-31T10:48:05.429660Z"
+    }
+    },
+    {
+    "index": "99",
+    "message": {
+    "alerts": [
+    {
+    "eventId": "metadata-460-bdDM2ECg",
+    "models": [],
+    "eventTime": "2022-03-27T11:55:00Z",
+    "rules": [
+    "AML.trxnFrom_ToProhbitedCountry",
+    "universal.trxnFrom_ToProhbitedCountry"
+    ],
+    "alertId": "6243251bde655e2b3bc1e3e9",
+    "eventType": "paymentNRT",
+    "event": {
+    "toId": "toId_1",
+    "msgType": "3",
+    "accountName": {
+    "namePrefix": "242",
+    "surname": "Apps",
+    "givenName": "Company 2",
+    "fullName": "Apps"
+    },
+    "customerEntityId": "Prim Proper",
+    "channel": "QTB",
+    "firstPaymentDate": "2022-03-17",
+    "numberOfTransactions": 2,
+    "paymentFrequency": "paymentFrequency_1",
+    "settlementMethod": "settlementMethod_1",
+    "msgStatus": "Warcrimes",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00.000Z",
+    "_metadata": {
+    "eventId": "eventId_1",
+    "execution": {
+    "expectResponse": false
+    },
+    "systemEventId": "metadata-460-bdDM2ECg",
+    "entities": {
+    "ACCOUNT": [
+    "2020337334123"
+    ],
+    "COUNTERPARTY": [
+    "Whoid"
+    ],
+    "CUSTOMER": [
+    "Prim Proper"
+    ],
+    "CARD": [
+    "serverTesto1234"
+    ]
+    },
+    "receivedTime": "2022-03-29T15:26:19Z",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "tenantId": "aml",
+    "entityConcatenation": {
+    "counterparty": "false",
+    "merchant": "false",
+    "mcc": "false",
+    "device": "false",
+    "account": "false",
+    "card": "false",
+    "customer": "false"
+    },
+    "eventType": "paymentNRT",
+    "searchable": {
+    "accountAddress_addressLine1": "CDN street",
+    "customerEntityId": "Prim Proper",
+    "counterpartyAddress_addressLine1": "addressLine1_1",
+    "channel": "QTB",
+    "settlementDate": "2022-01-17",
+    "eventType": "paymentNRT",
+    "requestExecutionDate": "2022-01-31",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "counterpartyId": "Whoid",
+    "counterpartyName_fullName": "Optimus Prime",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "counterpartyEntityId": "Whoid"
+    }
+    },
+    "counterpartyEntityId": "Whoid",
+    "accountAgentId": "ds32342",
+    "direction": "direction_1",
+    "eventId": "eventId_1",
+    "amount": {
+    "currency": "NGN",
+    "value": 6000001,
+    "baseCurrency": "NGN"
+    },
+    "instructingAgentId": "instructingAgentId_1",
+    "schemaVersion": 1,
+    "accountAddress": {
+    "country": "NG",
+    "townName": "Lagos",
+    "addressLine1": "CDN street"
+    },
+    "counterpartyAddress": {
+    "country": "KP",
+    "addressLine1": "addressLine1_1"
+    },
+    "serviceLevelCode": "serviceLevelCode_1",
+    "settlementClearingSystemCode": "settlementClearingSystemCode_1",
+    "eventType": "paymentNRT",
+    "settlementDate": "2022-01-17",
+    "creationDate": "2022-03-29T15:26:15.806Z",
+    "finalPaymentDate": "2022-03-03",
+    "requestExecutionDate": "2022-01-31",
+    "destinationCountry": "IR",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "accountId": "2020337334123",
+    "counterpartyId": "Whoid",
+    "accountAgentName": "Fire agent",
+    "tenantId": "aml",
+    "counterpartyName": {
+    "surname": "Prime",
+    "givenName": "Optimus",
+    "fullName": "Optimus Prime"
+    },
+    "paymentMethod": "paymentMethod_1",
+    "instructedAgentId": "instructedAgentId_1"
+    },
+    "alertedEntity": {
+    "id": "Prim Proper",
+    "type": "CUSTOMER",
+    "tenantIdentifier": "aml"
+    },
+    "tags": []
+    }
+    ],
+    "caseIdentifier": "ba2d01",
+    "actionId": "1cc0e0d1-73f8-401e-b408-7869d243d320",
+    "description": "Test 2 for sar",
+    "caseCreationReasons": [
+    {
+    "identifier": "Looks_Suspicious",
+    "name": "Looks Suspicious",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "primaryEntity": {
+    "id": "Prim Proper",
+    "type": "CUSTOMER",
+    "tenantIdentifier": "aml"
+    },
+    "type": "CREATE_CASE",
+    "uicgIdentifier": "amlCm",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "events": [],
+    "timestamp": "2022-03-31T10:47:02.308528Z",
+    "tenantIdentifier": "aml"
+    }
+    },
+    {
+    "index": "98",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    },
+    {
+    "index": "97",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    },
+    {
+    "index": "96",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    },
+    {
+    "index": "95",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    },
+    {
+    "index": "94",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    },
+    {
+    "index": "93",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    },
+    {
+    "index": "92",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    },
+    {
+    "index": "91",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    },
+    {
+    "index": "90",
+    "message": {
+    "reasons": [
+    {
+    "identifier": "Investigation_concluded",
+    "codeNames": [
+    "High_Amount_Transactions"
+    ],
+    "name": "Investigation concluded",
+    "uicgIdentifier": "amlCm",
+    "closureType": "RISK"
+    }
+    ],
+    "decision": "RISK",
+    "caseIdentifier": "60e62a",
+    "actionId": "1df2b82e-1abf-46b9-960f-2ba26a89cdef",
+    "comment": "This is the final comment. Test",
+    "type": "CLOSE-CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_ASSIGN_CASES",
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "BULK_DELETE_CASES",
+    "CASE_INVESTIGATION",
+    "VIEW_ALL_CASES",
+    "CASE_MANAGEMENT",
+    "REVIEW_CASES"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "actions": [
+    {
+    "identifier": "File_SAR",
+    "name": "File SAR",
+    "uicgIdentifier": "amlCm"
+    }
+    ],
+    "timestamp": "2022-03-29T15:25:10.976862Z"
+    }
+    }
+   ]
