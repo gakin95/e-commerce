@@ -19,4 +19,4 @@ async function createPartition() {
   await admin.disconnect();
 }
 
-createPartition();
+//createPartition();
