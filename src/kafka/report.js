@@ -9,7 +9,7 @@ const sarReport =  (batch,isRunning,isStale,resolveOffset,heartbeat) => {
     const allCurrentCases = [...batch.messages];
       const proceedData = () => {
           const results = [];
-        allCurrentCases.map(message => {
+        allCurrentCases.map((message,index) => {
             if (!isRunning() || isStale()) return
             results.push(JSON.parse(message.value.toString()));
             resolveOffset(message.offset);
@@ -30,6 +30,9 @@ const sarReport =  (batch,isRunning,isStale,resolveOffset,heartbeat) => {
       const getUniqueCaseIdentiFier = [
         ...new Set(caseIdentifierArrThatIsClosedAndActionContainsFileSar),
       ];
+      const allCloseCase = data.filter(
+        (item) => item.message.type === "CLOSE-CASE"
+      );
       const allCreateCase = data.filter(
         (item) => item.message.type === "CREATE_CASE"
       );
@@ -46,8 +49,17 @@ const sarReport =  (batch,isRunning,isStale,resolveOffset,heartbeat) => {
       };
       const listOfValidInvestigations = eventsThatAreClosedAndActionContainsFileSar();
       const dataToBeReported = listOfValidInvestigations.map(message => {
+        let currentClosedCase = allCloseCase.find(item => item.message.caseIdentifier === message.message.caseIdentifier);
           return {
             originatingEvent: message.message.alerts[0].event,
+            eventTime: message.message.alerts[0].event.eventTime,
+            accountId: message.message.alerts[0].event.accountId,
+            comment: currentClosedCase.message.comment || "",
+            eventConclusionTime: currentClosedCase.message.timestamp || "",
+            reporter: currentClosedCase.message.user.username || "",
+            reasons: currentClosedCase.message.reasons || [],
+            caseIdentifier: message.message.caseIdentifier,
+            status:"Pending"
           }
       })
       return dataToBeReported
