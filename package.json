@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "author": "gbenga",
   "license": "ISC",
@@ -30,5 +31,8 @@
     "nodemailer-express-handlebars": "^4.0.0",
     "winston": "^3.3.3",
     "winston-mongodb": "^5.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
