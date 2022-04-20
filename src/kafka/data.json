@@ -1,0 +1,1141 @@
+[
+    {
+      "index": "162",
+      "message": {
+        "caseIdentifier": "06a1b2",
+        "narrative": "When the CIA discovers one of its agents leaked information that cost more than 100 people their lives, veteran operative Henry Pelham is assigned to root out the mole with his former lover and colleague Celia Harrison.",
+        "actionId": "a2ec1837-f8b4-4e9f-9a40-d049126b2d4b",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "CASE_INVESTIGATION",
+            "VIEW_ALL_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_QA_REVIEW",
+            "BULK_DELETE_CASES",
+            "BULK_ASSIGN_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-11T10:49:55.169118Z"
+      }
+    },
+    {
+      "index": "161",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "160",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "159",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "158",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "157",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "156",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "155",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "154",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "153",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "152",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "151",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "150",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "06a1b2",
+        "actionId": "d67ea07d-e6bf-4f74-89d7-b3f007dd064d",
+        "comment": "dsbkdj\n",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:45:37.325785Z"
+      }
+    },
+    {
+      "index": "149",
+      "message": {
+        "caseIdentifier": "06a1b2",
+        "actionId": "ffea4092-c769-4c2a-8d54-ef9aaa1d578b",
+        "type": "START_CASE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac",
+            "61f29ae34c766334c2d474ae"
+          ],
+          "permissions": [
+            "BULK_ASSIGN_CASES",
+            "BULK_DELETE_CASES",
+            "REVIEW_CASES",
+            "BULK_REVIEW_CASES",
+            "CASE_MANAGEMENT",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "VIEW_ALL_CASES"
+          ],
+          "userId": "619e91943ee63242b858713a",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "landlordadministrator",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-07T13:44:49.641950Z"
+      }
+    },
+    {
+      "index": "148",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "147",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "146",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "145",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "144",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "143",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "142",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "141",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "140",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "a88589d3-9fc9-4c42-b51e-fc533dbf01b7",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:33:27.491106Z"
+      }
+    },
+    {
+      "index": "139",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "narrative": "The was in depth investigation. We found out that this person is a war criminal from Krypton. Your time is up on earth 53 creature. etc etc\ncHECKD BY cco\n\nTesting",
+        "actionId": "b7d5c1a9-b8f0-48be-a9d5-a3ef97983100",
+        "type": "NARRATIVE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:32:02.004267Z"
+      }
+    },
+    {
+      "index": "138",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "actionId": "adc1e6ee-13d7-4fa5-b14d-267375c93b73",
+        "type": "START_CASE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:30:36.973759Z"
+      }
+    },
+    {
+      "index": "137",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "actionId": "adc1e6ee-13d7-4fa5-b14d-267375c93b73",
+        "type": "START_CASE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:30:36.973759Z"
+      }
+    },
+    {
+      "index": "136",
+      "message": {
+        "evidence": [],
+        "caseIdentifier": "60e62a",
+        "actionId": "38831c81-04d6-44c3-bede-af4a59e40b00",
+        "comment": "Hoping this works",
+        "type": "COMMENT",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:26:49.340456Z"
+      }
+    },
+    {
+      "index": "135",
+      "message": {
+        "caseIdentifier": "60e62a",
+        "actionId": "971d11e7-617c-4337-a3bb-43f0f8a74275",
+        "comment": "reopen",
+        "type": "QA_REOPEN",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:23:45.903576Z"
+      }
+    },
+    {
+      "index": "134",
+      "message": {
+        "caseIdentifier": "06a1b2",
+        "actionId": "bd3783f2-72d4-4134-ac14-75020b2f7e5f",
+        "comment": "open",
+        "type": "QA_REOPEN",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "timestamp": "2022-04-06T13:22:09.466555Z"
+      }
+    },
+    {
+      "index": "133",
+      "message": {
+        "alerts": [
+          {
+            "eventId": "metadata-4331-hjVj0njg",
+            "models": [],
+            "eventTime": "2022-01-27T13:36:16.039Z",
+            "rules": [
+              "universal.plasticWatchlist"
+            ],
+            "alertId": "61f29fd457b7f159f44ca954",
+            "eventType": "cardRT",
+            "event": {
+              "localDateTime": "2022-01-27T13:36:16.039Z",
+              "systemTraceAuditNumber": "systemTraceAuditNumber_1",
+              "toId": "toId_1",
+              "msgType": "msgType_1",
+              "mccEntityId": "mccEntityId_1",
+              "retrievalReferenceNumber": "retrievalReferenceNumber_1",
+              "msgStatus": "msgStatus_1",
+              "cardBIN": "12345678910",
+              "cardEntityId": "123456",
+              "customerId": "Mrk Kamil",
+              "eventTime": "2022-01-27T13:36:16.039Z",
+              "_metadata": {
+                "eventId": "eventId_1",
+                "execution": {
+                  "expectResponse": true
+                },
+                "systemEventId": "metadata-4331-hjVj0njg",
+                "entities": {
+                  "MCC": [
+                    "mccEntityId_1"
+                  ],
+                  "CARD": [
+                    "123456"
+                  ]
+                },
+                "receivedTime": "2022-01-27T13:36:20Z",
+                "eventTime": "2022-01-27T13:36:16.039Z",
+                "tenantId": "aml",
+                "eventType": "cardRT",
+                "searchable": {
+                  "toId": "toId_1",
+                  "msgReason": "msgReason_1",
+                  "cardEntityId": "123456",
+                  "mccEntityId": "mccEntityId_1",
+                  "cardId": "123456",
+                  "customerId": "Mrk Kamil",
+                  "maskedCardId": "maskedCardId_1",
+                  "transactionId": "transactionId_1"
+                }
+              },
+              "direction": "direction_1",
+              "eventId": "eventId_1",
+              "amount": {
+                "currency": "NGN",
+                "value": 69998
+              },
+              "schemaVersion": 1,
+              "accountAddress": {
+                "country": "NG",
+                "addressLine1": "24 OROMI CLOSE"
+              },
+              "eventType": "cardRT",
+              "transactionId": "transactionId_1",
+              "transactionType": "transactionType_1",
+              "msgReason": "msgReason_1",
+              "cardId": "123456",
+              "merchantCategoryCode": "123456",
+              "tenantId": "aml",
+              "cardProductType": "visa",
+              "maskedCardId": "maskedCardId_1"
+            },
+            "alertedEntity": {
+              "id": "123456",
+              "type": "CARD",
+              "tenantIdentifier": "aml"
+            },
+            "tags": [
+              {
+                "namespace": "Decision",
+                "value": "Decline"
+              }
+            ]
+          },
+          {
+            "eventId": "metadata-444-68mnvs30",
+            "models": [],
+            "eventTime": "2022-03-29T15:14:05.976Z",
+            "rules": [
+              "universal.plasticWatchlist"
+            ],
+            "alertId": "62432240de655e2b3bc1e3c3",
+            "eventType": "cardRT",
+            "event": {
+              "localDateTime": "2022-03-29T15:14:05.976Z",
+              "systemTraceAuditNumber": "systemTraceAuditNumber_1",
+              "toId": "toId_1",
+              "msgType": "msgType_1",
+              "customerEntityId": "Mrk Kamil",
+              "mccEntityId": "123456",
+              "retrievalReferenceNumber": "retrievalReferenceNumber_1",
+              "msgStatus": "msgStatus_1",
+              "cardBIN": "12345678910",
+              "cardEntityId": "123456",
+              "customerId": "Mrk Kamil",
+              "eventTime": "2022-03-29T15:14:05.976Z",
+              "_metadata": {
+                "eventId": "eventId_1",
+                "execution": {
+                  "expectResponse": true
+                },
+                "systemEventId": "metadata-444-68mnvs30",
+                "entities": {
+                  "CUSTOMER": [
+                    "Mrk Kamil"
+                  ],
+                  "MCC": [
+                    "123456"
+                  ],
+                  "CARD": [
+                    "123456"
+                  ]
+                },
+                "receivedTime": "2022-03-29T15:14:08Z",
+                "eventTime": "2022-03-29T15:14:05.976Z",
+                "tenantId": "aml",
+                "entityConcatenation": {
+                  "counterparty": "false",
+                  "merchant": "false",
+                  "mcc": "false",
+                  "device": "false",
+                  "account": "false",
+                  "card": "false",
+                  "customer": "false"
+                },
+                "eventType": "cardRT",
+                "searchable": {
+                  "toId": "toId_1",
+                  "msgReason": "msgReason_1",
+                  "customerEntityId": "Mrk Kamil",
+                  "cardEntityId": "123456",
+                  "mccEntityId": "123456",
+                  "cardId": "123456",
+                  "customerId": "Mrk Kamil",
+                  "eventTime": "2022-03-29T15:14:05.976Z",
+                  "eventType": "cardRT",
+                  "maskedCardId": "maskedCardId_1",
+                  "transactionId": "transactionId_1"
+                }
+              },
+              "direction": "direction_1",
+              "eventId": "eventId_1",
+              "amount": {
+                "currency": "NGN",
+                "value": 69998
+              },
+              "schemaVersion": 1,
+              "accountAddress": {
+                "country": "NG",
+                "addressLine1": "24 OROMI CLOSE"
+              },
+              "eventType": "cardRT",
+              "transactionId": "transactionId_1",
+              "transactionType": "transactionType_1",
+              "msgReason": "msgReason_1",
+              "cardId": "123456",
+              "merchantCategoryCode": "123456",
+              "tenantId": "aml",
+              "cardProductType": "visa",
+              "maskedCardId": "maskedCardId_1"
+            },
+            "alertedEntity": {
+              "id": "123456",
+              "type": "CARD",
+              "tenantIdentifier": "aml"
+            },
+            "tags": [
+              {
+                "namespace": "Decision",
+                "value": "Decline"
+              }
+            ]
+          }
+        ],
+        "caseIdentifier": "a1adfa",
+        "actionId": "18bab327-bd9a-4185-8188-2e30d337e06e",
+        "type": "ADD_TO_CASE",
+        "user": {
+          "teams": [
+            "61f29acb4c766334c2d474ac"
+          ],
+          "permissions": [
+            "REVIEW_CASES",
+            "BULK_DELETE_CASES",
+            "VIEW_ALL_CASES",
+            "CASE_INVESTIGATION",
+            "CASE_QA_REVIEW",
+            "BULK_REVIEW_CASES",
+            "BULK_ASSIGN_CASES",
+            "CASE_MANAGEMENT"
+          ],
+          "userId": "61e59ec384ff5332b28848ca",
+          "uicgIdentifier": "amlCm",
+          "scopeIdentity": "61f2914b4c766334c2d4710f",
+          "levels": [],
+          "username": "koladeprojects",
+          "tenantIdentifier": "aml"
+        },
+        "events": [],
+        "timestamp": "2022-04-06T12:06:45.887847Z",
+        "tenantIdentifier": "aml"
+      }
+    }
+  ]

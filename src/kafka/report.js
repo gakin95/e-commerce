@@ -20,6 +20,7 @@ const sarReport =  (batch,isRunning,isStale,resolveOffset,heartbeat) => {
         return results
       }
       const data = proceedData()[0];
+      console.log("data.....",data)
       const caseIdentifierArrThatIsClosedAndActionContainsFileSar = data?.filter(
           (messageObject) =>
             messageObject?.message &&

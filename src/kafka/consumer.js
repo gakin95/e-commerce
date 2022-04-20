@@ -1,6 +1,35 @@
 const { Kafka } = require("kafkajs");
 const aricFullData = require("./response.json");
+const createCase = require("./create.json");
+const addToCase = require("./addToCase.json");
+
 const sarReport = require("./report");
+const data = require("./data.json");
+const axios = require("axios");
+
+const postMessages = async (kafkaMessage,caseIdentifier,offset,partition,Status) => {
+  return await axios.post("http://localhost:5000/report/api/create",{
+    caseIdentifier,
+    kafkaMessage:[{...kafkaMessage}],
+    offset,
+    partition,
+    Status
+  })
+  .then(res => res.data)
+  .catch(err => console.log("err",err.response.data))
+}
+
+const updateCase = async (kafkaMessage,caseIdentifier,offset,partition,Status) => {
+  return await axios.put("http://localhost:5000/report/api/updateCase",{
+    caseIdentifier,
+    kafkaMessage,
+    offset,
+    partition,
+    Status
+  })
+  .then(res => res.data)
+  .catch(err => console.log("err",err.response.data))
+}
 
 const run = async () => {
   const kafka = new Kafka({
@@ -14,7 +43,7 @@ const run = async () => {
 
   await producer.send({
     topic: "test-topic",
-    messages: [{ value: JSON.stringify(aricFullData) }],
+    messages: [{ value: JSON.stringify(addToCase) }],
   });
 
   await producer.disconnect();
@@ -33,8 +62,23 @@ const run = async () => {
       isRunning,
       isStale,
     }) => {
-       const report = sarReport(batch,isRunning,isStale,resolveOffset,heartbeat);
-       console.log("report___________",report)
+      //  const report = sarReport(batch,isRunning,isStale,resolveOffset,heartbeat);
+      //  console.log("report___________",report)
+      //  await postMessages(report);
+      let dbStorage = {}
+       for (let message of batch.messages){
+        if (!isRunning() || isStale()) return
+        let messageObj = JSON.parse(message.value.toString());
+        console.log("messageObj..........",messageObj)
+        if (messageObj?.message?.type === "CREATE_CASE"){
+          await postMessages(messageObj,messageObj.message.caseIdentifier,message.offset, batch.partition,"Pending");
+        }
+        if (messageObj?.message?.type === "ADD_TO_CASE"){
+          await updateCase(messageObj,messageObj.message.caseIdentifier,message.offset, batch.partition,"Pending");
+        }
+        resolveOffset(message.offset);
+        await heartbeat()
+       }
     },
   });
 };

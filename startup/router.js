@@ -3,6 +3,7 @@ const express = require('express'),
     errorHandler = require('../src/helpers/errorHandler'),
     adminRouter = require('../src/admins/router'),
     productRouter = require('../src/products/router');
+    const reportRouter = require('../src/kafka/router');
 
 module.exports = function (app) {
     app.use(express.json({ limit:"5mb" }));
@@ -14,6 +15,7 @@ module.exports = function (app) {
     ));
     app.use('/admins', adminRouter);
     app.use('/admins', productRouter);
+    app.use('/report', reportRouter);
 
     //add Central error handling below
 };

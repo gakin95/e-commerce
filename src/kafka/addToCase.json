@@ -1,0 +1,305 @@
+{
+    "index": "108",
+    "message": {
+    "alerts": [
+    {
+    "eventId": "metadata-28-z3e6lpsN",
+    "models": [],
+    "eventTime": "2022-03-27T11:55:00Z",
+    "rules": [
+    "universal.Suspicious_Activity"
+    ],
+    "alertId": "624589e91f8efc67db9c544f",
+    "eventType": "paymentNRT",
+    "event": {
+    "toId": "toId_1",
+    "msgType": "3",
+    "accountName": {
+    "namePrefix": "242",
+    "surname": "Apps",
+    "givenName": "Company 2",
+    "fullName": "Apps"
+    },
+    "customerEntityId": "Prim Proper",
+    "channel": "QTB",
+    "firstPaymentDate": "2022-03-17",
+    "numberOfTransactions": 2,
+    "paymentFrequency": "paymentFrequency_1",
+    "settlementMethod": "settlementMethod_1",
+    "msgStatus": "Warcrimes",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00.000Z",
+    "_metadata": {
+    "eventId": "eventId_1",
+    "execution": {
+    "expectResponse": false
+    },
+    "systemEventId": "metadata-28-z3e6lpsN",
+    "entities": {
+    "ACCOUNT": [
+    "2020337334123"
+    ],
+    "COUNTERPARTY": [
+    "Whoid"
+    ],
+    "CUSTOMER": [
+    "Prim Proper"
+    ],
+    "CARD": [
+    "serverTesto1234"
+    ]
+    },
+    "receivedTime": "2022-03-31T11:00:56Z",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "tenantId": "aml",
+    "entityConcatenation": {
+    "counterparty": "false",
+    "merchant": "false",
+    "mcc": "false",
+    "device": "false",
+    "account": "false",
+    "card": "false",
+    "customer": "false"
+    },
+    "eventType": "paymentNRT",
+    "searchable": {
+    "accountAddress_addressLine1": "CDN street",
+    "customerEntityId": "Prim Proper",
+    "counterpartyAddress_addressLine1": "addressLine1_1",
+    "channel": "QTB",
+    "settlementDate": "2022-01-17",
+    "eventType": "paymentNRT",
+    "requestExecutionDate": "2022-01-31",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "counterpartyId": "Whoid",
+    "counterpartyName_fullName": "Optimus Prime",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "counterpartyEntityId": "Whoid"
+    }
+    },
+    "counterpartyEntityId": "Whoid",
+    "accountAgentId": "ds32342",
+    "direction": "direction_1",
+    "eventId": "eventId_1",
+    "amount": {
+    "currency": "NGN",
+    "value": 6000001,
+    "baseCurrency": "NGN"
+    },
+    "instructingAgentId": "instructingAgentId_1",
+    "schemaVersion": 1,
+    "accountAddress": {
+    "country": "NG",
+    "townName": "Lagos",
+    "addressLine1": "CDN street"
+    },
+    "counterpartyAddress": {
+    "country": "KP",
+    "addressLine1": "addressLine1_1"
+    },
+    "serviceLevelCode": "serviceLevelCode_1",
+    "settlementClearingSystemCode": "settlementClearingSystemCode_1",
+    "eventType": "paymentNRT",
+    "settlementDate": "2022-01-17",
+    "creationDate": "2022-03-31T11:00:51.238Z",
+    "finalPaymentDate": "2022-03-03",
+    "requestExecutionDate": "2022-01-31",
+    "destinationCountry": "IR",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "accountId": "2020337334123",
+    "counterpartyId": "Whoid",
+    "accountAgentName": "Fire agent",
+    "tenantId": "aml",
+    "counterpartyName": {
+    "surname": "Prime",
+    "givenName": "Optimus",
+    "fullName": "Optimus Prime"
+    },
+    "paymentMethod": "paymentMethod_1",
+    "instructedAgentId": "instructedAgentId_1"
+    },
+    "alertedEntity": {
+    "id": "serverTesto1234",
+    "type": "CARD",
+    "tenantIdentifier": "aml"
+    },
+    "tags": [
+    {
+    "namespace": "_tag",
+    "value": "SAR"
+    }
+    ]
+    },
+    {
+    "eventId": "metadata-460-bdDM2ECg",
+    "models": [],
+    "eventTime": "2022-03-27T11:55:00Z",
+    "rules": [
+    "universal.Suspicious_Activity"
+    ],
+    "alertId": "6243251bde655e2b3bc1e3e7",
+    "eventType": "paymentNRT",
+    "event": {
+    "toId": "toId_1",
+    "msgType": "3",
+    "accountName": {
+    "namePrefix": "242",
+    "surname": "Apps",
+    "givenName": "Company 2",
+    "fullName": "Apps"
+    },
+    "customerEntityId": "Prim Proper",
+    "channel": "QTB",
+    "firstPaymentDate": "2022-03-17",
+    "numberOfTransactions": 2,
+    "paymentFrequency": "paymentFrequency_1",
+    "settlementMethod": "settlementMethod_1",
+    "msgStatus": "Warcrimes",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00.000Z",
+    "_metadata": {
+    "eventId": "eventId_1",
+    "execution": {
+    "expectResponse": false
+    },
+    "systemEventId": "metadata-460-bdDM2ECg",
+    "entities": {
+    "ACCOUNT": [
+    "2020337334123"
+    ],
+    "COUNTERPARTY": [
+    "Whoid"
+    ],
+    "CUSTOMER": [
+    "Prim Proper"
+    ],
+    "CARD": [
+    "serverTesto1234"
+    ]
+    },
+    "receivedTime": "2022-03-29T15:26:19Z",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "tenantId": "aml",
+    "entityConcatenation": {
+    "counterparty": "false",
+    "merchant": "false",
+    "mcc": "false",
+    "device": "false",
+    "account": "false",
+    "card": "false",
+    "customer": "false"
+    },
+    "eventType": "paymentNRT",
+    "searchable": {
+    "accountAddress_addressLine1": "CDN street",
+    "customerEntityId": "Prim Proper",
+    "counterpartyAddress_addressLine1": "addressLine1_1",
+    "channel": "QTB",
+    "settlementDate": "2022-01-17",
+    "eventType": "paymentNRT",
+    "requestExecutionDate": "2022-01-31",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "counterpartyId": "Whoid",
+    "counterpartyName_fullName": "Optimus Prime",
+    "accountEntityId": "2020337334123",
+    "cardEntityId": "serverTesto1234",
+    "customerId": "Prim Proper",
+    "eventTime": "2022-03-27T11:55:00Z",
+    "counterpartyEntityId": "Whoid"
+    }
+    },
+    "counterpartyEntityId": "Whoid",
+    "accountAgentId": "ds32342",
+    "direction": "direction_1",
+    "eventId": "eventId_1",
+    "amount": {
+    "currency": "NGN",
+    "value": 6000001,
+    "baseCurrency": "NGN"
+    },
+    "instructingAgentId": "instructingAgentId_1",
+    "schemaVersion": 1,
+    "accountAddress": {
+    "country": "NG",
+    "townName": "Lagos",
+    "addressLine1": "CDN street"
+    },
+    "counterpartyAddress": {
+    "country": "KP",
+    "addressLine1": "addressLine1_1"
+    },
+    "serviceLevelCode": "serviceLevelCode_1",
+    "settlementClearingSystemCode": "settlementClearingSystemCode_1",
+    "eventType": "paymentNRT",
+    "settlementDate": "2022-01-17",
+    "creationDate": "2022-03-29T15:26:15.806Z",
+    "finalPaymentDate": "2022-03-03",
+    "requestExecutionDate": "2022-01-31",
+    "destinationCountry": "IR",
+    "fromId": "Zeke24",
+    "transactionId": "transactionId_1",
+    "accountId": "2020337334123",
+    "counterpartyId": "Whoid",
+    "accountAgentName": "Fire agent",
+    "tenantId": "aml",
+    "counterpartyName": {
+    "surname": "Prime",
+    "givenName": "Optimus",
+    "fullName": "Optimus Prime"
+    },
+    "paymentMethod": "paymentMethod_1",
+    "instructedAgentId": "instructedAgentId_1"
+    },
+    "alertedEntity": {
+    "id": "serverTesto1234",
+    "type": "CARD",
+    "tenantIdentifier": "aml"
+    },
+    "tags": [
+    {
+    "namespace": "_tag",
+    "value": "SAR"
+    }
+    ]
+    }
+    ],
+    "caseIdentifier": "9f2834",
+    "actionId": "1ad56386-83d0-4d60-8d99-f9a30b08cd11",
+    "type": "ADD_TO_CASE",
+    "user": {
+    "teams": [
+    "61f29acb4c766334c2d474ac",
+    "61f29ae34c766334c2d474ae"
+    ],
+    "permissions": [
+    "BULK_REVIEW_CASES",
+    "CASE_QA_REVIEW",
+    "CASE_INVESTIGATION",
+    "BULK_DELETE_CASES",
+    "REVIEW_CASES",
+    "VIEW_ALL_CASES",
+    "BULK_ASSIGN_CASES",
+    "CASE_MANAGEMENT"
+    ],
+    "userId": "619e91943ee63242b858713a",
+    "uicgIdentifier": "amlCm",
+    "scopeIdentity": "61f2914b4c766334c2d4710f",
+    "levels": [],
+    "username": "landlordadministrator",
+    "tenantIdentifier": "aml"
+    },
+    "events": [],
+    "timestamp": "2022-03-31T11:02:13.308265Z",
+    "tenantIdentifier": "aml"
+    }
+    }

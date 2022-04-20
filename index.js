@@ -9,7 +9,6 @@ if (!process.env.JWT_SECRET) { console.error('FATAL ERROR: jwtPrivateKey is not 
 require('./startup/securityPackages')(app);
 require('./startup/db_connection');
 require('./startup/logging');
-require('./src/kafka');
 
 require('./startup/router')(app);
 
